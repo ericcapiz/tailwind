@@ -30,10 +30,10 @@ const NavBar = () => {
             : "fixed left-[-100%]"
         }
       >
-        <h1 className="w-full text-3xl font-bold m-4 text-[#00df9a]">
-          Tailwind Demo
-        </h1>
         <ul className="p-4 uppercase">
+          <h1 className="w-full text-3xl font-bold m-4 text-[#00df9a]">
+            Tailwind Demo
+          </h1>
           <li className="p-4 border-b border-gray-600">Home</li>
           <li className="p-4 border-b border-gray-600">Company</li>
           <li className="p-4 border-b border-gray-600">Resources</li>
